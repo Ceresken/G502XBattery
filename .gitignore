@@ -1,0 +1,11 @@
+/target/
+
+# Local device data and packet captures
+/feature-map.txt
+/g502-live.txt
+/g502-requests.txt
+/idle.json
+/polling.json
+/captures/
+*.pcap
+*.pcapng
